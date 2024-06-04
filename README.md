@@ -8,6 +8,10 @@ This component creates an accordion that allows users to toggle the visibility o
 - Dynamic toggling of active section
 - Smooth rotation of icons to indicate expanded/collapsed state
 
+  
+## Preview Image
+![Preview](https://github.com/AroshaRavishan/Vue3-Tailwind-Accordion-with-Active-state/blob/main/Vue%20accordion%20sample%20preview.png)
+
 # Looped Accordion Component
 
 This Vue.js component implements an accordion-style list for displaying exams and their details. Each exam can be expanded to show its items and their respective durations.
